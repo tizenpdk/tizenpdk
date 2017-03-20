@@ -12,5 +12,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
   gbs (<= 0.24.5-0ubuntu0),
   mic (<= 0.27.3-0ubuntu0),
   litmus (<= 0.3.7-0ubuntu0),
+  lthor (<= 2.0-0ubuntu0),
+  sdb (<= 2.3.0-1-0ubuntu0),
 Description: Tizen Platform Development Kit
   Tizen Platform Development Kit includes command line tools to develop tizen platform.
