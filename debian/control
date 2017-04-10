@@ -9,8 +9,8 @@ Homepage: https://launchpad.net/~tizen.org
 Package: tizenpdk
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
-  gbs (<= 0.24.5-0ubuntu0),
-  mic (<= 0.27.3-0ubuntu0),
+  gbs (<= 0.24.6-0ubuntu0),
+  mic (<= 0.27.4-0ubuntu0),
   litmus (<= 0.3.7-0ubuntu0),
   lthor (<= 2.0-0ubuntu0),
   sdb (<= 2.3.0-1-0ubuntu0),
