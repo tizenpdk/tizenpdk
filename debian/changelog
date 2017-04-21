@@ -1,8 +1,14 @@
+tizenpdk (0.3-1) unstable; urgency=low
+
+  * Add trepo 0.1
+
+ -- Donghoon Shin <dhs.shin@samsung.com>  Fri, 21 Apr 2017 13:45:10 +0900
+
 tizenpdk (0.2-1) unstable; urgency=low
 
   * Bump gbs 0.24.6 and mic 0.27.4
 
- -- Donghoon Shin <dhs.shin@samsung.com>  Tue, 14 Mar 2017 16:05:20 +0900
+ -- Donghoon Shin <dhs.shin@samsung.com>  Tue, 11 Apr 2017 08:50:31 +0900
 
 tizenpdk (0.1-1) unstable; urgency=low
 

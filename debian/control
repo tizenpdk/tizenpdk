@@ -14,5 +14,6 @@ Depends: ${shlibs:Depends}, ${misc:Depends},
   litmus (>= 0.3.7),
   lthor (>= 2.0),
   sdb (>= 2.3.0),
+  trepo (>= 0.1),
 Description: Tizen Platform Development Kit
   Tizen Platform Development Kit includes command line tools to develop tizen platform.
